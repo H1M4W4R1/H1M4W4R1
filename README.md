@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi there 
+I am Patrick - passionate of software development (and DiY). My main expertise is C# and Unity3D. I also work with STM32, Atmel (Microchip) and Raspberry MCUs. I tend to create, even if the project is not useful itself (see Encryption Module in my repos).
 
-<!--
-**H1M4W4R1/H1M4W4R1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What languages have you tried?   
+* C# (3.0+) - semi-expert  
+* JavaScript - advanced  
+* TypeScript - advanced  
+* HTML (data language) - advanced  
+* C/C++ - advanced  
+* LUA - advanced  
+* Java - basics / advanced  
+* Python - basics  
+* PHP - never more  
+  
+possibly more, but I can't remember them atm. of writing this.  
 
-Here are some ideas to get you started:
+### What frameworks do you work with?
+* Unity3D - semi-expert  
+* ASP.NET Core - semi-expert  
+* .NET Core - semi-expert  
+* .NET 5.0 - semi-expert  
+* Blazor - basic / advanced
+* Angular CLI - basic
+* Node.JS - basic
+* Arduino - basic
+* PlatformIO - basic
+* STM32 HAL - basic
+* Raspberry Pi Pico SDK - basic
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### CodersRank profile?
+[Here :)](https://profile.codersrank.io/user/h1m4w4r1/)
