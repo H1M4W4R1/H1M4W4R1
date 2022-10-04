@@ -8,24 +8,26 @@ I am Patrick - passionate of software development (and DiY). My main expertise i
 * HTML (data language) - advanced  
 * C/C++ - advanced  
 * LUA - advanced  
-* Java - basics / advanced  
-* Python - basics  
+* Java - basic / advanced  
+* Python - basic
 * PHP - never more  
   
 possibly more, but I can't remember them atm. of writing this.  
 
 ### What frameworks do you work with?
+* ANTLR4 - semi-expert
 * Unity3D - semi-expert  
 * ASP.NET Core - semi-expert  
 * .NET Core - semi-expert  
 * .NET 5.0 - semi-expert  
+* Raspberry Pi Pico SDK - advanced
 * Blazor - basic / advanced
 * Angular CLI - basic
 * Node.JS - basic
 * Arduino - basic
 * PlatformIO - basic
 * STM32 HAL - basic
-* Raspberry Pi Pico SDK - basic
+* Stable Diffusion - basic
 
-### CodersRank profile?
+### CodersRank profile? (actually rarely updated, cuz most repos are hosted on Unity Plastic)
 [Here :)](https://profile.codersrank.io/user/h1m4w4r1/)
