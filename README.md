@@ -9,3 +9,7 @@ I am Patrick - passionate of software development (and DiY). My main expertise i
 * Unity3D
 * Arduino / PlatformIO
 * STM32 HAL
+
+### CodersRank / Socials?
+* [CodersRank](https://profile.codersrank.io/user/h1m4w4r1)
+* [LinkedIn](https://www.linkedin.com/in/patryk-pastuszka-511232285/)
